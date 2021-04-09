@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SmrutiSagarPattanaik
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning front-end web development.
-- 📫 How to reach me ping me on linkedin
-
-
+- 📫 How to reach me ping me on linkedin: https://www.linkedin.com/in/smruti-sagar-pattanaik-a3a000195/
